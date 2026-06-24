@@ -23,4 +23,6 @@ vless://0ea51a09-2b10-4577-862d-1ebc9217da63@217.16.26.145:64443?flow=xtls-rprx-
 
 vless://45253473-05ad-4202-98a9-cf6a7fdf7a15@185.91.54.135:443?flow=&type=grpc&mode=gun&serviceName=&security=reality&fp=firefox&sni=max.ru&pbk=5GmVUzcdFW-6EpX89PGQzfVYGB_hJwU_2G4GuVGnyzg&sid=94f8ba6253fd9f68#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%7C%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 
+vless://fa216fbf-2482-479d-a07c-89a99e123c92@s-rus3.nudu1.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=s-rus3.nudu1.com&alpn=http/1.1,h2&fp=firefox&allowInsecure=0&echfq=none#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%9B%9C%20YouTube%20%7C%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20WiFi
+
 by @goose228
