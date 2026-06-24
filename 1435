@@ -29,4 +29,6 @@ vless://fa216fbf-2482-479d-a07c-89a99e123c92@s-rus3.nudu1.com:8443?flow=xtls-rpr
 
 vless://9d19d40f-63b8-43b5-a185-ec7259f8675b@srv-5.mtpro100.online:443?flow=&type=ws&host=&path=/xhttppath&security=tls&sni=srv-5.mtpro100.online&fp=firefox&allowInsecure=0&echfq=none#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%9B%9C%20Wifi%20vpn
 
+vless://0cae0e9b-86a2-49a4-af68-97ecf15cfab2@mageia.ubuntuhosting.host:443?flow=&type=grpc&mode=gun&serviceName=gun&security=reality&fp=chrome&sni=mageia.ubuntuhosting.host&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%9B%9C%20WiFi%20vpn%20%7C%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+
 by @goose228
