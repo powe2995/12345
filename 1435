@@ -22,7 +22,7 @@ vless://3630e5cf-7933-4ab3-acd2-135987ba25ed@217.16.22.69:8443?flow=xtls-rprx-vi
 
 vless://45253473-05ad-4202-98a9-cf6a7fdf7a15@185.91.54.135:443?type=grpc&security=reality&fp=firefox&sni=max.ru&pbk=5GmVUzcdFW-6EpX89PGQzfVYGB_hJwU_2G4GuVGnyzg&sid=94f8ba6253fd9f68&mode=gun#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%8F%B3%EF%B8%8F%20LTE%20%7C%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%231
 
-vless://374b2429-b278-426b-81dc-0cddc24d5328@81.94.148.75:8443?type=grpc&security=reality&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1&serviceName=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%8F%B3%EF%B8%8F%20LTE%20%7C%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://374b2429-b278-426b-81dc-0cddc24d5328@81.94.148.75:8443?type=grpc&security=reality&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1&serviceName=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%8F%B3%EF%B8%8F%20LTE%20%7C%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%232
 
 vless://6235d980-498a-4291-ac66-fe9a5036dc3b@srv116.towersflowerss.com:64534?flow=&type=ws&host=&path=/&security=none#%F0%9F%9B%9C%20%7C%20%D0%9D%D0%B8%D0%B6%D0%B5%20vpn%20%D1%81%20WiFi%20%5E%20-%20%5E
 
